@@ -1,6 +1,6 @@
 {
   "name": "localization_vue_3",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Manage your strings with localization_vue_3",
   "main": "localizationPlugin.js",
   "scripts": {

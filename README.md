@@ -2,7 +2,7 @@
 
 ## Manage your strings with localization_vue_3 package!
 
-![gif](https://im3.ezgif.com/tmp/ezgif-3-994d3ac4ed49.gif)
+![gif](https://i.hizliresim.com/AXtBmc.gif)
 
 ### Setup
 
