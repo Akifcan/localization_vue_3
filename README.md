@@ -28,7 +28,7 @@ app.use(localization, {language: {useCustomLanguage: 'tr-TR'}, customPath: 'your
 ```
 
 ### Folder Structure
-![image](https://i.hizliresim.com/wf1coE.png)
+![image](https://i.hizliresim.com/lv1t5z.png)
 
 ### en-EN.json
 ```
