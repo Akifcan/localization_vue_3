@@ -1,0 +1,24 @@
+{
+  "name": "localization_vue_3",
+  "version": "1.0.0",
+  "description": "Manage your strings with localization_vue_3",
+  "main": "localizationPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akifcan/localization_vue_3.git"
+  },
+  "keywords": [
+    "localization",
+    "language",
+    "lang"
+  ],
+  "author": "Akifcan Kara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akifcan/localization_vue_3/issues"
+  },
+  "homepage": "https://github.com/Akifcan/localization_vue_3#readme"
+}
