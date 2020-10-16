@@ -69,3 +69,5 @@ app.use(localization, {language: {useCustomLanguage: 'tr-TR'}, customPath: 'your
  <button type="button" @click="getLanguage({useCustomLanguage: 'fr-FR'})">Change</button>
 ```
 
+[Example](https://github.com/Akifcan/localization_vue_3/tree/example)
+
